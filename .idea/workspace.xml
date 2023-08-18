@@ -4,6 +4,7 @@
     <list default="true" id="493eae4f-ad08-429e-8f71-afa4146739c6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-File-Automation/FileAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-File-Automation/FileAutomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileAutomation.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FileAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileAutomation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
